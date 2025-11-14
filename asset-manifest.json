@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerce-rtk/static/css/main.585e71c1.css",
+    "main.js": "/ecommerce-rtk/static/js/main.0781f423.js",
+    "index.html": "/ecommerce-rtk/index.html",
+    "main.585e71c1.css.map": "/ecommerce-rtk/static/css/main.585e71c1.css.map",
+    "main.0781f423.js.map": "/ecommerce-rtk/static/js/main.0781f423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.585e71c1.css",
+    "static/js/main.0781f423.js"
+  ]
+}
